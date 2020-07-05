@@ -1,16 +1,16 @@
 # about
 
-`git-fem` is a shell script to make a GitHub-hosted git repo match the girl power/nb femme power aesthetic of the rest of your life by renaming your `master` branch to `mistress` in your local repo and the upstream on GitHub *and* making `mistress` the new default branch on GitHub.
+`git-furry` is a shell script to make a GitHub-hosted git repo match the werewolf rurry aesthetic of the rest of your life by renaming your `master` branch to `werewolf_daddy` in your local repo and the upstream on GitHub *and* making `werewolf_daddy` the new default branch on GitHub.
 
-> "what is this, some social justice bullshit?" - a man
+> "what is this, some furry shit?" - an sjw
 
 yes
 
 # installation
 
 ``` bash
-$ git clone https://github.com/ashaindlin/git-fem.git
-$ cd git-fem
+$ git clone https://github.com/DarkRyu550/git-furry
+$ cd git-furry
 $ sudo make install
 ```
 
@@ -21,11 +21,11 @@ $ cd existing-git-repo
 $ git branch
   foo    xxxxxx A commit message
 * master xxxxxx Another commit message
-$ git-fem
+$ git-furry
 # Enter GitHub credentials
 $ git branch
-  foo      xxxxxx A commit message
-* mistress xxxxxx Another commit message
+  foo            xxxxxx A commit message
+* werewolf_daddy xxxxxx Another commit message
 ```
 
-you can now optionally delete `master` upstream with `$ git push origin :master` but if other people pull from your repo and you don't tell them you've done this, they may become very angry.
+you can now optionally delete `master` upstream with `$ git push origin :master` but if other people pull from your repo and you don't tell them you've done this, they may become very gay.
