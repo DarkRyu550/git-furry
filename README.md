@@ -1,6 +1,6 @@
 # about
 
-`git-furry` is a shell script to make a GitHub-hosted git repo match the werewolf rurry aesthetic of the rest of your life by renaming your `master` branch to `werewolf_daddy` in your local repo and the upstream on GitHub *and* making `werewolf_daddy` the new default branch on GitHub.
+`git-furry` is a shell script to make a GitHub-hosted git repo match the werewolf furry aesthetic of the rest of your life by renaming your `master` branch to `werewolf_daddy` in your local repo and the upstream on GitHub *and* making `werewolf_daddy` the new default branch on GitHub.
 
 > "what is this, some gay furry shit parody of my repo?" - an sjw
 
